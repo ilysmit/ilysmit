@@ -1,14 +1,1 @@
-# Hook Landing Page Theme
-
-This landing page theme is built on [shorthand css framework](https://github.com/shorthandcss/shorthand)
-
-![preview](/preview.jpg)
-
-## Credit
-
-* Picture [unsplash](https://unsplash.com)
-* Icons [featheruyggfytfyicons](https://feathericons.com)
-
-## LICENSE
-
-The theme is available under the MIT License.
+this is only for git or github learning purpose 
